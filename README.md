@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre mí
 
-Soy un desarrollador full stack, entusiasta de la tecnología y en constante formación para mejorar mis habilidades como programador.
+Soy un desarrollador full stack, entusiasta de las nuevas tecnologías y en constante formación para mejorar mis habilidades como programador.
 
 - 💻 Actualmente estoy aprendiendo React, Redux, Next.js y el stack tecnológico MERN
 - 📧 Contacto: daniel.40.pompa@gmail.com
