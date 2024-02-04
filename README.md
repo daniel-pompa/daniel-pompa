@@ -16,7 +16,7 @@ Soy una persona autodidacta, con muchas ganas de aprender y en constante formaci
 [<img src="./devicons/redux/redux-original.svg" width="30" height="32" />](https://redux.js.org/)
 [<img src="./devicons/bootstrap/bootstrap-original.svg" width="32" height="32" />](https://getbootstrap.com/)
 [<img src="./devicons//tailwindcss/tailwindcss-plain.svg" width="30" height="32" />](https://tailwindcss.com/)
-[<img src="./devicons/nodejs/nodejs-original.svg" width="30" height="32" />](https://nodejs.org/es/)
+[<img src="./devicons/nodejs/nodejs-original.svg" width="30" height="32" />](https://nodejs.org/en)
 [<img src="./devicons/express/express-original.svg" width="30" height="32" />](https://expressjs.com/)
 [<img src="./devicons/mongodb/mongodb-original.svg" width="30" height="32" />](https://www.mongodb.com/)
 [<img src="./devicons/git/git-original.svg" width="30" height="32" />](https://git-scm.com/)
