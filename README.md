@@ -80,11 +80,15 @@ Here’s a snapshot of my GitHub activity, highlighting my most-used languages, 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 July 2024 - To: 06 August 2024
+From: 31 July 2024 - To: 07 August 2024
 
-Total Time: 0 secs
+Total Time: 3 hrs 51 mins
 
-No activity tracked
+Markdown      1 hr 9 mins     ███████▓░░░░░░░░░░░░░░░░░   30.05 %
+JavaScript    55 mins         ██████░░░░░░░░░░░░░░░░░░░   23.97 %
+TypeScript    55 mins         ██████░░░░░░░░░░░░░░░░░░░   23.81 %
+HTML          31 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.44 %
+YAML          19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 %
 ```
 
 <!--END_SECTION:waka-->
