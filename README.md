@@ -82,7 +82,9 @@ Here’s a snapshot of my GitHub activity, highlighting my most-used languages, 
 
 ![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniel-pompa&theme=react)
 
-### WakaTime Coding Stats
+## WakaTime Coding Stats
+
+An overview of my recent coding activity, tracking the total hours spent on development.
 
 <!--START_SECTION:waka-->
 
