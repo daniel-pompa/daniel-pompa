@@ -42,7 +42,16 @@ Explore some of the web applications I've developed:
 **A React application for searching and downloading GIFs using the Giphy API.**  
 Easily find and download your favorite GIFs from the extensive Giphy library.
 
-**Technologies:** Vite, React, Giphy API
+**Technologies:** Vite, React, JavaScript, HTML5, CSS3
+
+---
+
+### [**Crypto Quote**](https://crypto-quote-app.vercel.app/)  
+
+**A React-based application that provides real-time cryptocurrency quotes using the CryptoCompare API.**  
+Access up-to-date cryptocurrency information, including current prices, daily highs and lows, 24-hour price changes, and the latest update times.
+
+**Technologies:** Vite, React, TypeScript, HTML5, CSS3, Zustand, Zod
 
 ---
 
@@ -51,16 +60,7 @@ Easily find and download your favorite GIFs from the extensive Giphy library.
 **A budgeting tool for tracking expenses with real-time updates.**  
 Features intuitive swipe gestures for managing finances, making it easy to stay on top of your budget.
 
-**Technologies:** Vite, React
-
----
-
-### [**To-Do List**](https://to-do-app-2024.netlify.app/)  
-
-**A simple yet powerful task manager to keep your life organized.**  
-This app offers filters for organizing tasks and tracking progress, helping you stay productive.
-
-**Technologies:** Vite, JavaScript, HTML5, CSS3, Bootstrap
+**Technologies:** Vite, React, JavaScript, HTML5, CSS3
 
 ## GitHub Stats
 
