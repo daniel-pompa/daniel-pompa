@@ -12,59 +12,44 @@ As a self-taught developer, my relentless curiosity drives me to master new tech
 
 Here are some of the technologies and tools I frequently use:
 
-<div>
-  <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML" />
-  <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS" />
-  <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
-  <img src="https://skillicons.dev/icons?i=redux" width="40" height="40" alt="Redux" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="Bootstrap" />
-  <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind CSS" />
-  <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" />
-  <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express" />
-  <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
-  <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="Visual Studio Code" />
-  <img src="https://skillicons.dev/icons?i=npm" width="40" height="40" alt="NPM" />
-  <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="Postman" />
-  <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" />
-  <img src="https://skillicons.dev/icons?i=heroku" width="40" height="40" alt="Heroku" />
-</div>
+<p>
+  <a href="#"><img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=redux" width="40" height="40" alt="Redux" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="Bootstrap" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind CSS" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="Visual Studio Code" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=npm" width="40" height="40" alt="NPM" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="Postman" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=heroku" width="40" height="40" alt="Heroku" /></a>
+</p>
 
 ## Recent Projects
 
 Explore some of the web applications I've developed:
 
-### [**Gif Finder**](https://gif-finder-app-alpha.vercel.app/)  
+1. [Gif Finder](https://gif-finder-app-alpha.vercel.app/)  
+2. [Crypto Quote](https://crypto-quote-app.vercel.app/)  
+3. [Order Management](https://order-and-tip-app.vercel.app/)
+4. [To-Do List](https://to-do-app-2024.netlify.app/)
+5. [Budget Master](https://budget-master-app-2023.netlify.app/)
 
-**A React application for searching and downloading GIFs using the Giphy API.**  
-Easily find and download your favorite GIFs from the extensive Giphy library.
+## Trophies
 
-**Technologies:** Vite, React, JavaScript, HTML5, CSS3
-
----
-
-### [**Crypto Quote**](https://crypto-quote-app.vercel.app/)  
-
-**A React-based application that provides real-time cryptocurrency quotes using the CryptoCompare API.**  
-Access up-to-date cryptocurrency information, including current prices, daily highs and lows, 24-hour price changes, and the latest update times.
-
-**Technologies:** Vite, React, TypeScript, HTML5, CSS3, Zustand, Zod
-
----
-
-### [**Budget Master**](https://budget-master-app-2023.netlify.app/)
-
-**A budgeting tool for tracking expenses with real-time updates.**  
-Features intuitive swipe gestures for managing finances, making it easy to stay on top of your budget.
-
-**Technologies:** Vite, React, JavaScript, HTML5, CSS3
+[![Trophies](https://github-profile-trophy.vercel.app/?username=daniel-pompa&theme=onedark&title=Commits,Repositories,Stars,Issues,Followers,Experience,PullRequest,Reviews)](https://github.com/daniel-pompa/daniel-pompa)
 
 ## GitHub Stats
 
-Here’s a snapshot of my GitHub activity, highlighting my most-used languages, overall contributions, and achievements.
+An overview of my GitHub activity, featuring my most-used languages, contribution history, and current streaks.
 
 ### Most Used Languages
 
@@ -89,67 +74,28 @@ An overview of my recent coding activity, tracking the total hours spent on deve
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 115 hrs 18 mins
+Total Time: 91 hrs 7 mins
 
-JavaScript    42 hrs 44 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   36.95 %
-TypeScript    36 hrs 16 mins  ⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.37 %
-CSS           16 hrs 31 mins  ⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.28 %
-Markdown      12 hrs 42 mins  ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.99 %
-HTML          4 hrs 27 mins   ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.85 %
+TypeScript    32 hrs 19 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.39 %
+JavaScript    28 hrs 48 mins  ⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.55 %
+CSS           14 hrs 11 mins  ⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.55 %
+Markdown      10 hrs 3 mins   ⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.02 %
+HTML          4 hrs 6 mins    ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.49 %
 ```
 
 <!--END_SECTION:waka-->
-
-## Trophies
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=daniel-pompa&theme=onedark&title=Commits,Repositories,Stars,Issues,Followers,Experience,PullRequest,Reviews)](https://github.com/daniel-pompa/daniel-pompa)
-
-## Professional Skills
-
-A versatile web developer with experience in both front-end and back-end technologies, focused on building efficient and user-friendly web applications.
-
-### Technical Skills
-
-- **MERN Stack:** MongoDB, Express, React, Node.js
-- **API Development:** RESTful APIs with Node.js and Express
-- **Programming Languages:** JavaScript (ES6+), TypeScript
-- **Front-End Development:** HTML5, CSS3, React, Redux, Redux Toolkit, Bootstrap, Tailwind CSS, Fetch API, Axios
-- **Back-End Development:** Node.js, Express.js, MongoDB, Mongoose ODM
-- **Testing:** Jest
-- **Version Control:** Git, GitHub
-- **Development Tools:** Visual Studio Code, npm, Yarn, Postman, Docker, Heroku, Netlify, Vercel
-
-### Soft Skills
-
-- **Communication:** Clear and effective communicator 📝💬
-- **Teamwork:** Collaborative and supportive team player, focused on achieving common goals 🤝
-- **Problem-Solving:** Innovative and resourceful in tackling challenges 💡
-- **Adaptability:** Flexible and open to change 🌀
-- **Organization:** Efficient time and project management 📆⏰
-- **Leadership:** Motivating and guiding others 🥇
-- **Empathy:** Empathetic and supportive of the needs of both team members and users 💖
-- **Attention to Detail:** Precise and meticulous 🔍
-
-## Coding Platforms
-
-In my free time, I participate in coding challenges on these platforms:
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23EB9016.svg?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/daniel290874)
-[![CodeWars](https://img.shields.io/badge/CodeWars-%23A2331E.svg?style=flat&logo=codewars&logoColor=white)](https://www.codewars.com/users/daniel-pompa)
 
 ## Contact Me
 
 Feel free to contact me if you have any questions or if you're interested in collaborating on a project via the following channels:
 
-<div>
+<p>
   <a href="https://www.linkedin.com/in/daniel-pompa" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
   </a>
   <a href="mailto:daniel.40.pompa@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Gmail" />
   </a>
-</div>
-
-<br />
+</p>
 
 Thank you for visiting my GitHub profile!
