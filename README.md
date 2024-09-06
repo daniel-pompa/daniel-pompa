@@ -35,13 +35,17 @@ Here are some of the technologies and tools I frequently use:
 
 ## Recent Projects
 
-Explore some of the web applications I've developed:
+Here are some of the web applications I’ve created:
 
-1. [Gif Finder](https://gif-finder-app-alpha.vercel.app/)  
-2. [Crypto Quote](https://crypto-quote-app.vercel.app/)  
-3. [Order Management](https://order-and-tip-app.vercel.app/)
-4. [To-Do List](https://to-do-app-2024.netlify.app/)
-5. [Budget Master](https://budget-master-app-2023.netlify.app/)
+| #  | Project Name     | Description                                  |
+|----|------------------|----------------------------------------------|
+| 1  | [Budget Master](https://budget-master-app.vercel.app/)      | Manage and track personal budgets efficiently. |
+| 2  | [Gif Finder](https://gif-finder-app-alpha.vercel.app/)      | Find and download animated GIFs quickly. |
+| 3  | [Crypto Quote](https://crypto-quote-app.vercel.app/)        | Get real-time cryptocurrency price updates. |
+| 4  | [Order Management](https://order-and-tip-app.vercel.app/)   | Streamline order management and tip calculations. |
+| 5  | [To-Do List](https://to-do-app-2024.netlify.app/)           | Organize and track tasks with ease. |
+
+For detailed information about each project, please visit their individual repositories.
 
 ## Trophies
 
