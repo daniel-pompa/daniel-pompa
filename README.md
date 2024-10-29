@@ -30,20 +30,20 @@ Here are some of the technologies and tools I frequently use:
   <a href="#"><img src="https://skillicons.dev/icons?i=npm" width="40" height="40" alt="NPM" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="Postman" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=heroku" width="40" height="40" alt="Heroku" /></a>
 </p>
 
 ## Recent Projects
 
 Here are some of the web applications I’ve created:
 
-| #  | Project Name     | Description                                  |
-|----|------------------|----------------------------------------------|
-| 1  | [Budget Master](https://budget-master-react.vercel.app/)        | Manage and track personal budgets efficiently.    |
-| 2  | [GIF Finder](https://gif-finder-react.vercel.app/)              | Find and download animated GIFs quickly.          |
-| 3  | [Crypto Quote](https://crypto-quote-react.vercel.app/)          | Get real-time cryptocurrency price updates.       |
-| 4  | [Order Management](https://order-management-react.vercel.app/)  | Streamline order management and tip calculations. |
-| 5  | [To-Do List](https://to-do-app-2024.netlify.app/)               | Organize and track tasks with ease.               |
+| #  | Project Name                                                   | Description                                                       |
+|----|----------------------------------------------------------------|-------------------------------------------------------------------|
+| 1  | [Project Management System](https://www.daemsolutions.com)     | A web app for efficient project and task management within teams. |
+| 2  | [Budget Master](https://budget-master-react.vercel.app/)       | Manage and track personal budgets efficiently.                    |
+| 3  | [GIF Finder](https://gif-finder-react.vercel.app/)             | Find and download animated GIFs quickly.                          |
+| 4  | [Crypto Quote](https://crypto-quote-react.vercel.app/)         | Get real-time cryptocurrency price updates.                       |
+| 5  | [Order Management](https://order-management-react.vercel.app/) | Streamline order management and tip calculations.                 |
+| 6  | [To-Do List](https://to-do-app-2024.netlify.app/)              | Organize and track tasks with ease.                               |
 
 For detailed information about each project, please visit their individual repositories.
 
