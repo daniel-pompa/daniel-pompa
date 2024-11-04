@@ -39,11 +39,11 @@ Here are some of the web applications I’ve created:
 | #  | Project Name                                                   | Description                                                       |
 |----|----------------------------------------------------------------|-------------------------------------------------------------------|
 | 1  | [Project Management System](https://www.daemsolutions.com)     | A web app for efficient project and task management within teams. |
-| 2  | [Budget Master](https://budget-master-react.vercel.app/)       | Manage and track personal budgets efficiently.                    |
-| 3  | [GIF Finder](https://gif-finder-react.vercel.app/)             | Find and download animated GIFs quickly.                          |
-| 4  | [Crypto Quote](https://crypto-quote-react.vercel.app/)         | Get real-time cryptocurrency price updates.                       |
-| 5  | [Order Management](https://order-management-react.vercel.app/) | Streamline order management and tip calculations.                 |
-| 6  | [To-Do List](https://to-do-app-2024.netlify.app/)              | Organize and track tasks with ease.                               |
+| 2  | [Budget Master](https://budget-master-react.vercel.app/)       | A web app to manage and track personal budgets with ease.         |
+| 3  | [GIF Finder](https://gif-finder-react.vercel.app/)             | Quickly search for and download animated GIFs.                    |
+| 4  | [Crypto Quote](https://crypto-quote-react.vercel.app/)         | Get up-to-date cryptocurrency price information.                  |
+| 5  | [Order Management](https://order-management-react.vercel.app/) | Simplifies order management and tip calculation.                  |
+| 6  | [To-Do List](https://to-do-app-2024.netlify.app/)              | Organize and keep track of tasks with a simple interface.         |
 
 For detailed information about each project, please visit their individual repositories.
 
