@@ -6,7 +6,7 @@ I'm a passionate web developer with experience in the MERN stack, dedicated to b
 
 As a self-taught developer, my relentless curiosity drives me to master new technologies and stay informed about the latest trends and best practices in web development. I'm committed to delivering solutions that meet technical standards and user needs, and I continually explore innovative tools and techniques to enhance my development practices.
 
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark)
 
 ## Technologies and Tools
 
