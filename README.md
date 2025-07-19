@@ -39,11 +39,10 @@ Here are some of the web applications I’ve created:
 | #  | Project Name                                                   | Description                                                       |
 |----|----------------------------------------------------------------|-------------------------------------------------------------------|
 | 1  | [Project Management System](https://www.daemsolutions.com)     | A web app for efficient project and task management within teams. |
-| 2  | [Budget Master](https://budget-master-react.vercel.app/)       | A web app to manage and track personal budgets with ease.         |
-| 3  | [GIF Finder](https://gif-finder-react.vercel.app/)             | Quickly search for and download animated GIFs.                    |
-| 4  | [Crypto Quote](https://crypto-quote-react.vercel.app/)         | Get up-to-date cryptocurrency price information.                  |
-| 5  | [Order Management](https://order-management-react.vercel.app/) | Simplifies order management and tip calculation.                  |
-| 6  | [To-Do List](https://to-do-app-2024.netlify.app/)              | Organize and keep track of tasks with a simple interface.         |
+| 2  | [Teslo Shop Ecommerce](https://next-teslo-shop-xi.vercel.app/) | An e-commerce platform for selling clothing products.             |
+| 3  | [Portfolio](https://daniel-pompa.vercel.app/)                  | A personal portfolio showcasing my skills and experience.         |
+| 4  | [GIF Finder](https://gif-finder-react.vercel.app/)             | Quickly search for and download animated GIFs.                    |
+| 5  | [Crypto Quote](https://crypto-quote-react.vercel.app/)         | Get up-to-date cryptocurrency price information.                  |
 
 For detailed information about each project, please visit their individual repositories.
 
