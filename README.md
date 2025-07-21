@@ -42,7 +42,8 @@ Here are some of the web applications I’ve created:
 | 2  | [Teslo Shop Ecommerce](https://next-teslo-shop-xi.vercel.app/) | An e-commerce platform for selling clothing products.             |
 | 3  | [Portfolio](https://daniel-pompa.vercel.app/)                  | A personal portfolio showcasing my skills and experience.         |
 | 4  | [GIF Finder](https://gif-finder-react.vercel.app/)             | Quickly search for and download animated GIFs.                    |
-| 5  | [Crypto Quote](https://crypto-quote-react.vercel.app/)         | Get up-to-date cryptocurrency price information.                  |
+| 5  | [Todo List](https://next-to-do-list-seven.vercel.app/)         | A simple and efficient todo list app.                             |
+| 6  | [Crypto Quote](https://crypto-quote-react.vercel.app/)         | Get up-to-date cryptocurrency price information.                  |
 
 For detailed information about each project, please visit their individual repositories.
 
