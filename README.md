@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-I'm a passionate web developer with experience in the MERN stack, dedicated to building scalable and efficient web applications. My commitment to continuous learning helps me stay up-to-date with the latest technologies and enhance my skills.
+I'm a web developer with experience in the MERN and PERN stacks, dedicated to building scalable and efficient web applications. My commitment to continuous learning helps me stay up-to-date with the latest technologies and enhance my skills.
 
 As a self-taught developer, my relentless curiosity drives me to master new technologies and stay informed about the latest trends and best practices in web development. I'm committed to delivering solutions that meet technical standards and user needs, and I continually explore innovative tools and techniques to enhance my development practices.
 
@@ -38,18 +38,19 @@ Here are some of the web applications I’ve created:
 
 | #  | Project Name                                                   | Description                                                       |
 |----|----------------------------------------------------------------|-------------------------------------------------------------------|
-| 1  | [Project Management System](https://www.daemsolutions.com)     | A web app for efficient project and task management within teams. |
-| 2  | [Teslo Shop Ecommerce](https://next-teslo-shop-xi.vercel.app/) | An e-commerce platform for selling clothing products.             |
-| 3  | [Portfolio](https://daniel-pompa.vercel.app/)                  | A personal portfolio showcasing my skills and experience.         |
-| 4  | [GIF Finder](https://gif-finder-react.vercel.app/)             | Quickly search for and download animated GIFs.                    |
-| 5  | [Todo List](https://next-to-do-list-seven.vercel.app/)         | A simple and efficient todo list app.                             |
-| 6  | [Crypto Quote](https://crypto-quote-react.vercel.app/)         | Get up-to-date cryptocurrency price information.                  |
+| 1  | [VIP Top Spain](https://www.viptopspain.com)                   | Corporate interactive site for VIP airport services.              |
+| 2  | [Project Management System](https://www.daemsolutions.com)     | A web app for efficient project and task management within teams. |
+| 3  | [Teslo Shop Ecommerce](https://next-teslo-shop-xi.vercel.app)  | An e-commerce platform for selling clothing products.             |
+| 4  | [Portfolio](https://daniel-pompa.vercel.app)                   | A personal portfolio showcasing my skills and experience.         |
+| 5  | [GIF Finder](https://gif-finder-react.vercel.app)              | Quickly search for and download animated GIFs.                    |
+| 6  | [Todo List](https://next-to-do-list-seven.vercel.app)          | A simple and efficient todo list app.                             |
+| 7  | [Crypto Quote](https://crypto-quote-react.vercel.app)          | Get up-to-date cryptocurrency price information.                  |
 
 For detailed information about each project, please visit their individual repositories.
 
 ## Trophies
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=daniel-pompa&theme=onedark&title=Commits,Repositories,Stars,Issues,Followers,Experience,PullRequest,Reviews)](https://github.com/daniel-pompa/daniel-pompa)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=daniel-pompa&theme=onedark&title=Commits,Repositories,Stars,Issues,Followers,Experience)](https://github.com/daniel-pompa/daniel-pompa)
 
 ## GitHub Stats
 
@@ -78,13 +79,13 @@ An overview of my recent coding activity, tracking the total hours spent on deve
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1,048 hrs 54 mins
+Total Time: 653 hrs 23 mins
 
-TypeScript      826 hrs 58 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀   78.34 %
-CSS             55 hrs 41 mins  ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.28 %
-JSON            47 hrs 14 mins  ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.47 %
-Markdown        45 hrs          ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.26 %
-JavaScript      43 hrs 19 mins  ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.10 %
+TypeScript    513 hrs 56 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀   78.01 %
+JavaScript    43 hrs 13 mins  ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.56 %
+Markdown      34 hrs 7 mins   ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.18 %
+CSS           30 hrs 4 mins   ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.57 %
+Bash          10 hrs 22 mins  ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.58 %
 ```
 
 <!--END_SECTION:waka-->
