@@ -48,29 +48,17 @@ Here are some of the web applications I’ve created:
 
 For detailed information about each project, please visit their individual repositories.
 
+## GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats-mu-ten-82.vercel.app/api/top-langs/?username=daniel-pompa&layout=compact&theme=react" height="165" alt="Daniel's most used programming languages" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats-mu-ten-82.vercel.app/api?username=daniel-pompa&show_icons=true&theme=react" height="165" alt="Daniel's overall GitHub contributions and stats" />
+</p>
+
 ## Trophies
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=daniel-pompa&theme=onedark&title=Commits,Stars,Repositories,Followers,Experience)](https://github.com/daniel-pompa)
-
-## GitHub Stats
-
-An overview of my GitHub activity, featuring my most-used languages, contribution history, and current streaks.
-
-### Most Used Languages
-
-![Top Languages](https://github-readme-stats-mu-ten-82.vercel.app/api/top-langs/?username=daniel-pompa&layout=compact&theme=react)
-
-### Overall Contributions
-
-![Daniel's GitHub stats](https://github-readme-stats-mu-ten-82.vercel.app/api?username=daniel-pompa&show_icons=true&theme=react)
-
-### Contribution Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=daniel-pompa&theme=react)
-
-### Profile Summary
-
-![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniel-pompa&theme=react)
 
 ## WakaTime Coding Stats
 
