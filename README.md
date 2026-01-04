@@ -38,7 +38,7 @@ Here are some of the web applications I’ve created:
 
 | #  | Project Name                                                   | Description                                                       |
 |----|----------------------------------------------------------------|-------------------------------------------------------------------|
-| 1  | [VIP Top Spain](https://www.viptopspain.com)                   | Corporate interactive site for VIP airport services.              |
+| 1  | [VIP Top Spain](https://www.viptopspain.com)                   | Corporate web site for VIP airport services.                      |
 | 2  | [Project Management System](https://www.daemsolutions.com)     | A web app for efficient project and task management within teams. |
 | 3  | [Teslo Shop Ecommerce](https://next-teslo-shop-xi.vercel.app)  | An e-commerce platform for selling clothing products.             |
 | 4  | [Portfolio](https://daniel-pompa.vercel.app)                   | A personal portfolio showcasing my skills and experience.         |
@@ -50,7 +50,7 @@ For detailed information about each project, please visit their individual repos
 
 ## Trophies
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=daniel-pompa&theme=onedark&title=Commits,Repositories,Stars,Issues,Followers,Experience)](https://github.com/daniel-pompa/daniel-pompa)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=daniel-pompa&theme=onedark&title=Commits,Stars,Repositories,Followers,Experience)](https://github.com/daniel-pompa)
 
 ## GitHub Stats
 
@@ -58,11 +58,11 @@ An overview of my GitHub activity, featuring my most-used languages, contributio
 
 ### Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-pompa&layout=compact&theme=react)
+![Top Languages](https://github-readme-stats-mu-ten-82.vercel.app/api/top-langs/?username=daniel-pompa&layout=compact&theme=react)
 
 ### Overall Contributions
 
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-pompa&show_icons=true&theme=react)
+![Daniel's GitHub stats](https://github-readme-stats-mu-ten-82.vercel.app/api?username=daniel-pompa&show_icons=true&theme=react)
 
 ### Contribution Streak
 
@@ -79,13 +79,13 @@ An overview of my recent coding activity, tracking the total hours spent on deve
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1,091 hrs 8 mins
+Total Time: 1,048 hrs 54 mins
 
-TypeScript      867 hrs 31 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀   78.94 %
-CSS             55 hrs 50 mins  ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.08 %
-JSON            47 hrs 54 mins  ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.36 %
-Markdown        45 hrs 41 mins  ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.16 %
-JavaScript      43 hrs 19 mins  ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.94 %
+TypeScript      826 hrs 58 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀   78.34 %
+CSS             55 hrs 41 mins  ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.28 %
+JSON            47 hrs 14 mins  ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.47 %
+Markdown        45 hrs          ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.26 %
+JavaScript      43 hrs 19 mins  ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.10 %
 ```
 
 <!--END_SECTION:waka-->
