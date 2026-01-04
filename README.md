@@ -50,11 +50,9 @@ For detailed information about each project, please visit their individual repos
 
 ## GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats-mu-ten-82.vercel.app/api/top-langs/?username=daniel-pompa&layout=compact&theme=react" height="165" alt="Daniel's most used programming languages" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats-mu-ten-82.vercel.app/api?username=daniel-pompa&show_icons=true&theme=react" height="165" alt="Daniel's overall GitHub contributions and stats" />
-</p>
+| | |
+| :---: | :---: |
+| ![Top Languages](https://github-readme-stats-mu-ten-82.vercel.app/api/top-langs/?username=daniel-pompa&layout=compact&theme=react) | ![Stats](https://github-readme-stats-mu-ten-82.vercel.app/api?username=daniel-pompa&show_icons=true&theme=react) |
 
 ## Trophies
 
