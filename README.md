@@ -56,10 +56,6 @@ For detailed information about each project, please visit their individual repos
   <img src="https://github-readme-stats-mu-ten-82.vercel.app/api/top-langs/?username=daniel-pompa&layout=compact&theme=react" alt="Daniel's most used programming languages" />
 </p>
 
-## Trophies
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=daniel-pompa&theme=onedark&title=Commits,Stars,Repositories,Followers,Experience)](https://github.com/daniel-pompa)
-
 ## WakaTime Coding Stats
 
 An overview of my recent coding activity, tracking the total hours spent on development.
