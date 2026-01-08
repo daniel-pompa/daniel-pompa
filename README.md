@@ -42,7 +42,7 @@ Here are some of the web applications I’ve created:
 | 2  | [Project Management System](https://www.daemsolutions.com)     | A web app for efficient project and task management within teams. |
 | 3  | [Teslo Shop Ecommerce](https://next-teslo-shop-xi.vercel.app)  | An e-commerce platform for selling clothing products.             |
 | 4  | [Portfolio](https://daniel-pompa.vercel.app)                   | A personal portfolio showcasing my skills and experience.         |
-| 5  | [GIF Finder](https://gif-finder-react.vercel.app)              | Quickly search for and download animated GIFs.                    |
+| 5  | [GIFs Explorer](https://gifs-explorer-b07d26.netlify.app/)     | A web application to search and discover animated GIFs.           |
 | 6  | [Todo List](https://next-to-do-list-seven.vercel.app)          | A simple and efficient todo list app.                             |
 | 7  | [Crypto Quote](https://crypto-quote-react.vercel.app)          | Get up-to-date cryptocurrency price information.                  |
 
