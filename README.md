@@ -19,11 +19,11 @@ Here are some of the technologies and tools I frequently use:
   <a href="#"><img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=redux" width="40" height="40" alt="Redux" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="Bootstrap" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind CSS" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=postgresql" width="40" height="40" alt="PostgreSQL" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="Visual Studio Code" /></a>
