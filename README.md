@@ -18,6 +18,7 @@ Here are some of the technologies and tools I frequently use:
   <a href="#"><img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=redux" width="40" height="40" alt="Redux" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind CSS" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" /></a>
