@@ -12,25 +12,8 @@ As a self-taught developer, my relentless curiosity drives me to master new tech
 
 Here are some of the technologies and tools I frequently use:
 
-<p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=redux" width="40" height="40" alt="Redux" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind CSS" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=postgresql" width="40" height="40" alt="PostgreSQL" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="Visual Studio Code" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=npm" width="40" height="40" alt="NPM" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="Postman" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" /></a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,redux,tailwind,nodejs,express,mongodb,postgresql,git,github,vscode,npm,postman,docker" alt="Daniel's technologies and tools" />
 </p>
 
 ## Recent Projects
@@ -79,13 +62,19 @@ JavaScript      43 hrs 22 mins        ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 Feel free to contact me if you have any questions or if you're interested in collaborating on a project via the following channels:
 
-<p>
-  <a href="https://www.linkedin.com/in/daniel-pompa" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
-  </a>
-  <a href="mailto:daniel.40.pompa@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Gmail" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td border="0">
+      <a href="https://www.linkedin.com/in/daniel-pompa" target="_blank" rel="noopener noreferrer">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
+      </a>
+    </td>
+    <td border="0">
+      <a href="mailto:daniel.40.pompa@gmail.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Gmail" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 Thank you for visiting my GitHub profile!
